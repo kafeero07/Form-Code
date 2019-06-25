@@ -1,0 +1,30 @@
+<style>
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+</style>
+
+}
+input[type=submit]{
+	background-color: turquoise;
+	padding: 10px 10px;
+	border:none;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+body {
+	text-align: center;
+	zoom: 130%;
+	background-color: lime;
+	border-color: solid black;
+
+}
+div {
+	padding: 10px;
+}
